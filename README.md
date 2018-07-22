@@ -1,3 +1,5 @@
+You can change java version by editing sourceCompatibility in build.gradle file.
+
 ## Logging Level
 * local: error, warn, info, debug
 * dev: error, warn, info, debug
